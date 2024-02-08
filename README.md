@@ -1,2 +1,2 @@
 # odin-recipes
-Basic recipe website!
+Basic recipe website! it's not responsive so open on desktop.
